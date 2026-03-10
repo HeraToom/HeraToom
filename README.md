@@ -130,8 +130,8 @@ learning = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-krouchi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HeraToom)
 
 </div>
 
@@ -141,6 +141,6 @@ learning = {
 
 *"Learning by doing. Shipping by passion."*
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.github.username)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=HeraToom)
 
 </div>
