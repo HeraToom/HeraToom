@@ -19,83 +19,83 @@
 
 ## `> whoami`
 
-Passionné par les données depuis ma jeunesse — tout a commencé avec une **PS2** et la curiosité de comprendre comment les choses fonctionnent. À 12 ans, je montais mon premier PC. Quelques années plus tard, entre **Terminator**, la robotique et une fascination durable pour l'IA, j'avais trouvé ma voie.
+It all started with a **PS2** and an unquenchable curiosity about how things work. At 12, I built my first PC from scratch. A few years later, caught between **Terminator**, robotics, and a deep fascination with AI, I found my path.
 
-Aujourd'hui, je suis **Data Engineer** de métier, mais aussi **Data Analyst** et **Data Scientist** par curiosité — j'apprends sur le tas, et j'aime ça. 🤙
+Today I work as a **Data Engineer** — and I'm also growing into **Data Analysis** and **Data Science** on the job. Learning by doing is kind of my thing. 🤙
 
 ---
 
-## `> diplomas --list`
+## `> education`
 
 ```
-✅  Développeur Web & Web Mobile
-✅  Concepteur Développeur d'Applications
+✅  Web & Mobile Developer
+✅  Application Designer & Developer
 ✅  Data Engineer
 ```
 
 ---
 
-## `> skills --core`
+## `> skills`
 
-### 🏗️ Data Engineering *(mon métier)*
-
-```
-Python          ████████████████████  Scripting, ETL, orchestration
-SQL / PostGIS   ████████████████████  Requêtage, modélisation, géospatial
-dbt             ███████████████░░░░░  Transformation, tests, documentation
-Prefect         ██████████████░░░░░░  Orchestration de workflows
-PostgreSQL      ████████████████░░░░  Modélisation relationnelle, indexation
-Redis           ████████████░░░░░░░░  Cache, TTL, données temps réel
-Meilisearch     ████████████░░░░░░░░  Moteur de recherche, indexation full-text
-FastAPI         ████████████░░░░░░░░  Exposition d'APIs de données
-```
-
-### ☁️ Cloud & Infrastructure
+### 🏗️ Data Engineering *(what I do)*
 
 ```
-Docker          ████████████████░░░░  Conteneurisation
+Python          ████████████████████  Scripting, ETL, pipeline orchestration
+SQL / PostGIS   ████████████████████  Querying, modeling, geospatial data
+dbt             ███████████████░░░░░  Transformations, tests, documentation
+Prefect         ██████████████░░░░░░  Workflow orchestration
+PostgreSQL      ████████████████░░░░  Relational modeling, indexing
+Redis           ████████████░░░░░░░░  Caching, TTL, real-time data
+Meilisearch     ████████████░░░░░░░░  Full-text search, indexing
+FastAPI         ████████████░░░░░░░░  Data API design & exposure
+```
+
+### ☁️ Cloud & DevOps
+
+```
+Docker          ████████████████░░░░  Containerization
 Terraform       ████████████░░░░░░░░  Infrastructure as Code
-GitHub Actions  ████████████████░░░░  CI/CD
-Fly.io / Neon   ██████████░░░░░░░░░░  Déploiement cloud managé
+GitHub Actions  ████████████████░░░░  CI/CD pipelines
+Fly.io / Neon   ██████████░░░░░░░░░░  Managed cloud deployment
 ```
 
-### 🌐 Web *(mes racines)*
+### 🌐 Web *(where it all began)*
 
 ```
-HTML/CSS        ████████████████████  Solides bases
+HTML / CSS      ████████████████████  Strong foundations
 JavaScript      ████████████████░░░░  Frontend & scripting
-REST APIs       ████████████████░░░░  Consommation & conception
+REST APIs       ████████████████░░░░  Design & consumption
 ```
 
 ---
 
 ## `> currently_learning`
 
-> Ce que j'explore en ce moment — sur le tas, en conditions réelles 🔥
+> Real-world practice, every day 🔥
 
 ```python
 learning = {
     "Data Analysis": [
-        "Exploration & nettoyage de données",
-        "Création de vues analytics SQL",
-        "KPIs & reporting métier",
+        "Data exploration & cleaning",
+        "SQL analytics views & KPI design",
+        "Business reporting",
     ],
     "Data Science": [
         "Feature engineering",
-        "Fondamentaux du Machine Learning",
-        "Évaluation de modèles",
+        "Machine learning fundamentals",
+        "Model evaluation & metrics",
     ],
     "Data Architecture": [
-        "Modèles hybrides (OLTP + cache + search)",
-        "Intégration d'APIs commerciales",
-        "Stratégies de déduplication multi-sources",
+        "Hybrid storage models (OLTP + cache + search)",
+        "Third-party API integration",
+        "Multi-source deduplication strategies",
     ],
 }
 ```
 
 ---
 
-## `> tech_stack --full`
+## `> tech_stack`
 
 <div align="center">
 
@@ -107,7 +107,7 @@ learning = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -118,10 +118,10 @@ learning = {
 ## `> mindset`
 
 ```
-🎮  Gamer depuis la PS2  →  curieux de nature
-🔧  PC builder à 12 ans  →  à l'aise avec la technique
-🤖  Fan d'IA & de robots  →  passionné par les systèmes intelligents
-📚  Toujours en train d'apprendre  →  c'est ce qui m'anime
+🎮  Gamer since the PS2 era     →  naturally curious
+🔧  Built my first PC at 12     →  comfortable with complexity
+🤖  AI & robotics enthusiast    →  passionate about intelligent systems
+📚  Always learning something   →  that's what keeps me going
 ```
 
 ---
